@@ -1,4 +1,4 @@
-Hello, I’m Majed Menceur !
+##  Hello, I'm Meneceur Majed
 
 🌐 Computer Science student & aspiring Full-Stack/DevOps engineer, focused on building useful, reliable, and scalable applications.
 
@@ -23,3 +23,7 @@ Hello, I’m Majed Menceur !
 . DevOps tools: CI/CD pipelines, Docker, Prometheus, Grafana, and cloud deployment strategies
 
 . AI integration: Applying machine learning models (recommendation systems, natural language features, data-driven insights) into full-stack applications
+
+
+📫 Reach me at: majedmajed5stars@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/abedelmadjed-meneceur-8014a4344/) 
