@@ -14,11 +14,11 @@
 
 . Turning ideas into real applications with React, Next.js, and TypeScript
 
-. Building robust backends with NestJS, Flask, and GraphQL
+. Building robust backends with NestJS, Flask, and GraphQL or RESTful APIs
 
 . Learning and applying DevOps practices (CI/CD, containerization, monitoring)
 
-📚 Currently exploring:
+📚 Currently exploring and integrating :
 
 . DevOps tools: CI/CD pipelines, Docker, Prometheus, Grafana, and cloud deployment strategies
 
